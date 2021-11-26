@@ -1,3 +1,8 @@
+/**
+ * @author Nicholas Shortt
+ * @studentID 100630003
+ * @date November 25, 2021
+ */
 package ca.durhamcollege;
 
 import java.util.Random;
